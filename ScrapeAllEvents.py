@@ -1,6 +1,9 @@
 """
 ScrapeAllEvents.py
-This script is going to access every event that relates to airplane part failure. Unfortunately, the links are not all on the same page which means I have to figure out a way to go to the next page once there are no more event links on that page. It also means I need to write a for loop at the end of the main for loop that has the driver click the back button the correct amount of times. The last thing I need to figure out is how to put the output into an organized file (most likely a csv file).
+This script is going to access every event that relates to airplane part failure. Unfortunately, the links are not all on the same 
+page which means I have to figure out a way to go to the next page once there are no more event links on that page. It also means I 
+need to write a for loop at the end of the main for loop that has the driver click the back button the correct amount of times. The 
+last thing I need to figure out is how to put the output into an organized file (most likely a csv file).
 Created on Wed Sep 19 11:49:59 2018
 
 @author: Aaron Brehm
