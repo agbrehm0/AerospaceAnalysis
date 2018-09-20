@@ -1,6 +1,7 @@
 """
 ScrapeSingleEvent.py
-Scrapes information from a single event that I already have in my directory
+Scrapes information from 01-mar-2003.htmm which is just a random event page that I got from the database. It then writes the information
+to a csv file called practice.csv.
 Created on Tue Sep 18 16:40:58 2018
 
 @author: abrehm
